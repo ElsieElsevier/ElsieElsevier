@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm a graduate student transitioning into the information systems/technology and cybersecurity field. 
-I am currently learning the basics in Java and IT infrastructure.
+Please take a look at my LearningMachineLearning repo for my current projects.
+Movin forward towards integrating deep learning with cybersecurity. 
 
 <!--
 **ElsieElsevier/ElsieElsevier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
